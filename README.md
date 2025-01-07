@@ -4,5 +4,5 @@ HousePricePredictionModel is a machine learning model made to predict California
 - Preprocessed the data using log transformations to account for skewness, and explored datasets with matplotlib and seaborn
 - Trained various regression models, including Linear Regression and Random Forest, to find the best fit
 - Tuned hyperparameters using GridSearchCV, significantly improving the model's mean squared error (MSE)
-- Achieved high accuracy with iterative testing and analysis, resulting in a valid predictive model
+- Achieved high accuracy with iterative testing and analysis
 
